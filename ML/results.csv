@@ -1,0 +1,6 @@
+Rank,Candidate,Baseline_TFIDF_%,Hybrid_Match_%,Matched_Skills,Missing_Skills
+1,Sneha Iyer,38.6,44.9,"python, machine learning, natural language processing, artificial intelligence, cloud, pytorch","data analysis, sql, scikit-learn, tensorflow, text classification"
+2,Arun Kumar,41.7,38.1,"python, machine learning, natural language processing, data analysis, sql, scikit-learn","artificial intelligence, cloud, tensorflow, pytorch, text classification"
+3,Divya Sharma,31.5,25.6,"python, machine learning, natural language processing, tensorflow, text classification","artificial intelligence, data analysis, sql, cloud, scikit-learn, pytorch"
+4,Rahul Verma,12.4,7.3,"machine learning, artificial intelligence","python, natural language processing, data analysis, sql, cloud, scikit-learn, tensorflow, pytorch, text classification"
+5,Karthik Raj,7.4,6.8,None,"python, machine learning, natural language processing, artificial intelligence, data analysis, sql, cloud, scikit-learn, tensorflow, pytorch, text classification"
